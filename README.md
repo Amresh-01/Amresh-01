@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Amresh-01/Amresh-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -50,4 +50,3 @@ Web Development: HTML, CSS, JavaScript ,React Js Programming: Java (DSA-focused)
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
