@@ -1,36 +1,132 @@
-Hi 👋 My name is Amresh chaurasiya
-==================================
+# 👋 Hi there! I'm Amresh Chaurasiya
 
-Fronted Developer
------------------
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning!)
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](YOUR_PORTFOLIO_LINK)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amresh-chaurasiya-513421308/)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amreshchaurasiya373@gmail.com)
+  
+</div>
 
-Web Development: HTML, CSS, JavaScript ,React Js Programming: Java (DSA-focused), exploring problem-solving strategies 💻 I love creating projects that solve real-world problems, and I'm always eager to collaborate on exciting ideas. When I'm not coding, you'll find me exploring the latest in tech or brainstorming new ways to improve user experiences. Let's connect and create something amazing together! 🌐
+---
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [amreshchaurasiya373@gmail.com](mailto:amreshchaurasiya373@gmail.com)
-* 🧠  I'm learning Backened Technology
-* 🤝  I'm open to collaborating on Projects
+## 🚀 About Me
 
-### Skills
+```javascript
+const amresh = {
+    location: "India 🇮🇳",
+    currentRole: "Frontend Developer",
+    currentlyLearning: ["Backend Technologies", "Full Stack Development"],
+    passion: "Creating solutions that make a difference",
+    funFact: "I debug with console.log and I'm not ashamed! 😄"
+};
+```
 
+🎯 **Mission**: Building digital experiences that solve real-world problems  
+💡 **Vision**: Bridging the gap between innovative ideas and practical solutions  
+🌱 **Currently**: Expanding my skills in backend technologies to become a full-stack developer  
+🤝 **Open to**: Exciting collaborations and innovative project ideas  
 
+---
+
+## 🛠️ Tech Arsenal
+
+### Frontend Mastery
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript" alt="Frontend Skills" />
 </p>
 
+### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,js,typescript" alt="Programming Languages" />
+</p>
 
-### Socials
+### Backend & Tools (Learning)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,vscode,git,github" alt="Backend & Tools" />
+</p>
 
-<p align="left"> <a href="https://www.github.com/Amresh-01" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/amresh-chaurasiya-513421308/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+---
 
-### Badges
+## 📊 GitHub Analytics
 
-<b>My GitHub Stats</b>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amresh-01&show_icons=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" alt="Amresh's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amresh-01&layout=compact&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+</div>
 
-<a href="http://www.github.com/Amresh-01"><img src="https://github-readme-stats.vercel.app/api?username=Amresh-01&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Amresh-01's GitHub stats" /></a>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Amresh-01&theme=dark&hide_border=true&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" alt="GitHub Streak" />
+</div>
 
-<a href="http://www.github.com/Amresh-01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Amresh-01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amresh-01&theme=tokyo-night&hide_border=true&color=00d4ff" alt="Contribution Graph" />
+</div>
 
-<a href="http://www.github.com/Amresh-01"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Amresh-01&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+---
 
-<a href="https://github.com/Amresh-01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amresh-01&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 🏆 Achievements & Highlights
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Amresh-01&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 🎯 Current Focus
+
+```mermaid
+graph TD
+    A[Frontend Mastery] --> B[Backend Learning]
+    B --> C[Full Stack Development]
+    C --> D[DevOps & Deployment]
+    D --> E[System Design]
+    
+    style A fill:#00d4ff
+    style B fill:#ffd700
+    style C fill:#ff6b6b
+    style D fill:#4ecdc4
+    style E fill:#45b7d1
+```
+
+---
+
+## 📈 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   8 hrs 15 mins   ████████████████░░░░░   65.2%
+React        2 hrs 45 mins   █████░░░░░░░░░░░░░░░░   21.8%
+CSS          1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░    8.7%
+HTML         32 mins         █░░░░░░░░░░░░░░░░░░░░    4.3%
+```
+<!--END_SECTION:waka-->
+
+---
+
+## 🌐 Let's Connect & Collaborate!
+
+<div align="center">
+  
+  **💬 Got an exciting project idea? Let's bring it to life!**
+  
+  [![GitHub followers](https://img.shields.io/github/followers/Amresh-01?label=Follow&style=social)](https://github.com/Amresh-01)
+  [![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amresh-chaurasiya-513421308/)](https://www.linkedin.com/in/amresh-chaurasiya-513421308/)
+  [![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amreshchaurasiya373@gmail.com)](mailto:amreshchaurasiya373@gmail.com)
+  
+  ---
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Amresh-01&color=brightgreen&style=flat-square)
+  [![Stars](https://img.shields.io/github/stars/Amresh-01?label=Stars&style=social)](https://github.com/Amresh-01)
+  
+  **⭐ If you found my work helpful, consider giving it a star!**
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=72" />
+</div>
