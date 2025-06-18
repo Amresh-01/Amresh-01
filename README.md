@@ -5,7 +5,7 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning!)
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amresh-chaurasiya-513421308/)
-  [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+  [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Amresh__01)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amreshchaurasiya373@gmail.com)
   
 </div>
@@ -72,17 +72,25 @@ const amresh = {
 [![trophy](https://github-profile-trophy.vercel.app/?username=Amresh-01&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+## 🎯 Current Focus
+
+```mermaid
 graph TD
     A[Frontend Mastery] --> B[Backend Learning]
     B --> C[Full Stack Development]
     C --> D[DevOps & Deployment]
     D --> E[System Design]
-
+    
     style A fill:#7ed6df
     style B fill:#f0932b
     style C fill:#eb4d4b
     style D fill:#6ab04c
     style E fill:#8854d0
+
+```
+
+---
 
 ## 📈 Weekly Development Breakdown
 
