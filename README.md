@@ -43,7 +43,7 @@ const amresh = {
 
 ### Backend & Tools (Learning)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,vscode,git,github" alt="Backend & Tools" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,vscode,git,github" alt="Backend & Tools" />
 </p>
 
 ---
