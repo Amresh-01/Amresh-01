@@ -73,37 +73,6 @@ const amresh = {
 
 </div>
 
-## 🎯 Current Focus
-
-```mermaid
-graph TD
-    A[Frontend Mastery] --> B[Backend Learning]
-    B --> C[Full Stack Development]
-    C --> D[DevOps & Deployment]
-    D --> E[System Design]
-    
-    style A fill:#7ed6df
-    style B fill:#f0932b
-    style C fill:#eb4d4b
-    style D fill:#6ab04c
-    style E fill:#8854d0
-
-```
-
----
-
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   8 hrs 15 mins   ████████████████░░░░░   65.2%
-React        2 hrs 45 mins   █████░░░░░░░░░░░░░░░░   21.8%
-CSS          1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░    8.7%
-HTML         32 mins         █░░░░░░░░░░░░░░░░░░░░    4.3%
-```
-<!--END_SECTION:waka-->
-
----
 
 ## 🌐 Let's Connect & Collaborate!
 
