@@ -82,7 +82,7 @@ const amresh = {
   
   [![GitHub followers](https://img.shields.io/github/followers/Amresh-01?label=Follow&style=social)](https://github.com/Amresh-01)
   [![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amresh-chaurasiya-513421308/)](https://www.linkedin.com/in/amresh-chaurasiya-513421308/)
-  [![Twitter](https://img.shields.io/badge/-Follow-000000?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yourusername)](https://twitter.com/yourusername)
+  [![Twitter](https://img.shields.io/badge/-Follow-000000?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yourusername)](https://x.com/Amresh__01)
   [![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amreshchaurasiya373@gmail.com)](mailto:amreshchaurasiya373@gmail.com)
   
   ---
