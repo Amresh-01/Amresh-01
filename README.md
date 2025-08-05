@@ -38,7 +38,7 @@ const amresh = {
 
 ### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,js,typescript" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=java,c,js,typescript,python" alt="Programming Languages" />
 </p>
 
 ### Backend & Tools (Learning)
