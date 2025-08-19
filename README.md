@@ -15,7 +15,7 @@
 ```javascript
 const amresh = {
     location: "India 🇮🇳",
-    currentRole: "Frontend Developer",
+    currentRole: "Full Stack Developer",
     currentlyLearning: ["Backend Technologies", "Full Stack Development"],
     passion: "Creating solutions that make a difference",
     funFact: "I debug with console.log and I'm not ashamed! 😄"
