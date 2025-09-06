@@ -63,7 +63,12 @@ const amresh = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amresh-01&theme=tokyo-night&hide_border=true&color=00d4ff" alt="Contribution Graph" />
 </div>
 
----
+
+# 📊 Leetcode Stats:
+
+<img src="https://leetcard.jacoblin.cool/amresh-chaurasiya?theme=dark&font=Open%20Sans&ext=heatmap" width="380">
+
+
 
 ## 🏆 Achievements & Highlights
 
