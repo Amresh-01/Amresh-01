@@ -64,11 +64,6 @@ const amresh = {
 </div>
 
 
-# 📊 Leetcode Stats:
-
-<img src="https://leetcard.jacoblin.cool/amresh-chaurasiya?theme=dark&font=Open%20Sans&ext=heatmap" width="380">
-
-
 
 ## 🏆 Achievements & Highlights
 
