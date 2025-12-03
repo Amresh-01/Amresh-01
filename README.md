@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning!)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=FullStack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning!)
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amresh-chaurasiya-513421308/)
   [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Amresh__01)
@@ -31,7 +31,7 @@ const amresh = {
 
 ## 🛠️ Tech Arsenal
 
-### Frontend Mastery
+### Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript" alt="Frontend Skills" />
 </p>
@@ -41,10 +41,11 @@ const amresh = {
   <img src="https://skillicons.dev/icons?i=java,c,js,typescript,python" alt="Programming Languages" />
 </p>
 
-### Backend & Tools (Learning)
+### Backend & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,vscode,git,github" alt="Backend & Tools" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,aws,linux" alt="Backend & DevOps Tools" />
 </p>
+
 
 ---
 
