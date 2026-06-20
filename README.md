@@ -42,7 +42,7 @@ Shipped [multi-admin support](https://github.com/InsForge/InsForge/pull/1495) fo
 Also reading through and learning from:
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec)
 - [Oumi](https://github.com/oumi-ai/oumi)
-- [JCode](https://github.com/jcode)
+- [JCode](https://github.com/1jehuang/jcode)
 
 ---
 
