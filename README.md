@@ -1,15 +1,24 @@
 ### Amresh Chaurasiya
+Backend-focused full-stack developer and AI/ML engineer based in India, building production-grade ML systems, LLM applications, and intelligent automation. I like building systems that are simple to operate and easy to delete.
 
-Backend-focused full-stack developer based in India. I like building systems that are simple to operate and easy to delete.
+---
+
+**Focus Areas**
+- Large Language Models (LLMs), RAG pipelines, and memory-augmented agentic systems
+- Multi-agent orchestration, retrieval workflows, and context-aware chatbot architecture
+- ML system optimization, inference latency reduction, and model monitoring/evaluation
+- Computer Vision: OCR, object detection, image preprocessing, segmentation, and post-processing pipelines
+- Synthetic data generation and tabular modeling using SDV and CTGAN
+- Fraud detection, biometric verification, and deepfake/catfish detection systems
+- Healthcare AI workflows: OCR/PDF parsing, structured extraction, and disease prediction pipelines
+- End-to-end MLOps and deployment with Docker, RunPod, API integrations, and cloud tooling
 
 ---
 
 **Currently**
-
 - Building backend services with Node.js, Express, and MongoDB
 - Learning system design — focus on scalability and data modeling
-- Contributing to small open-source tools in the AI/dev-tooling space
-- Reading through the source of `browser-use` and `OpenSpec`
+- Contributing to open-source projects in the AI / dev-tooling space
 
 ---
 
@@ -19,16 +28,21 @@ Backend-focused full-stack developer based in India. I like building systems tha
 
 ---
 
-**Open Source**
+## Open Source
 
-Projects I read, learn from, and occasionally contribute to:
+**[InsForge](https://github.com/InsForge/InsForge)** — backend-as-a-service platform.
+Shipped [multi-admin support](https://github.com/InsForge/InsForge/pull/1495) for the self-hosted dashboard: replaced the single env-var admin with a database-backed admin model, added bcrypt password hashing, soft-delete, timing-attack–resistant credential checks, and root-only management endpoints. Merged into the project's `feat/multi-admin` integration branch after several rounds of maintainer and automated review.
 
-- [browser-use](https://github.com/browser-use/browser-use)
+**Currently contributing to:**
+- [sourcebot](https://github.com/sourcebot-dev/sourcebot) — self-hosted code search and understanding tool built on the Zoekt engine
+- [browser-use](https://github.com/browser-use/browser-use) — framework that lets AI agents control a browser
+- [twenty](https://github.com/twentyhq/twenty) — open-source CRM, an alternative to Salesforce
+- [zenbu.js](https://github.com/zenbu-labs/zenbu.js) — framework for building hackable, agent-editable software
+
+Also reading through and learning from:
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec)
 - [Oumi](https://github.com/oumi-ai/oumi)
 - [JCode](https://github.com/jcode)
-
-Less about contribution graphs, more about understanding how well-run projects are structured.
 
 ---
 
@@ -36,9 +50,9 @@ Less about contribution graphs, more about understanding how well-run projects a
 
 | Project | Description |
 | --- | --- |
-| [project-one](#) | What it does, the problem it solves, and the stack used. |
-| [project-two](#) | Notable design decision, scale, or architecture detail. |
-| [project-three](#) | Link to live demo, if available. |
+| [Canteeno](#) | Backend system with JWT authentication, WebSocket-based concurrency handling, and optimized queries. Fully documented API endpoints. |
+| [project-two](#) | *Add link + one-line description* |
+| [project-three](#) | *Add link + one-line description* |
 
 ---
 
@@ -49,7 +63,6 @@ Less about contribution graphs, more about understanding how well-run projects a
 ---
 
 **Contact**
-
 - Portfolio: [amreshchaurasiya.vercel.app](https://amreshchaurasiya.vercel.app)
 - LinkedIn: [in/amresh-chaurasiya](https://www.linkedin.com/in/amresh-chaurasiya-513421308/)
 - X: [@Amresh__01](https://x.com/Amresh__01)
