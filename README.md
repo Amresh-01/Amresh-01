@@ -66,7 +66,7 @@ Also reading through and learning from:
 - Portfolio: [amreshchaurasiya.vercel.app](https://amreshchaurasiya.vercel.app)
 - LinkedIn: [in/amresh-chaurasiya](https://www.linkedin.com/in/amresh-chaurasiya-513421308/)
 - X: [@Amresh__01](https://x.com/Amresh__01)
-- Email: amreshchaurasiya373@gmail.com
+- Email: amresh.codes@gmail.com
 
 ---
 
