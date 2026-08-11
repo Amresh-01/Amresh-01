@@ -26,7 +26,7 @@ Building production-grade ML systems, LLM applications, and intelligent automati
 
 ----
 
-## 03 / Stack
+## Tech Stack
 
 <table>
 <tr>
