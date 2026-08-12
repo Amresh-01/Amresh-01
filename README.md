@@ -158,10 +158,6 @@ Building production-grade ML systems, LLM applications, and intelligent automati
 - Working on notification delivery optimization and workflow improvements
 - Contributing to the notification feed management system
 
-**[Twenty](https://github.com/twentyhq/twenty)** — Open-source CRM alternative to Salesforce
-- Active contributor to the CRM platform
-- Working on data modeling and backend enhancements
-- Contributing to the open-source community edition
 
 **[RoboCurve](https://github.com/robocurve)** — AI-powered robotics simulation platform
 - Contributing to simulation and control systems
@@ -172,14 +168,6 @@ Building production-grade ML systems, LLM applications, and intelligent automati
 - Contributing to JSON Schema validation and tooling
 - Working on schema validation improvements and documentation
 - Community engagement and specification discussions
-
-### Active Contributions
-
-| Repository | Description |
-|------------|-------------|
-| [sourcebot](https://github.com/sourcebot-dev/sourcebot) | Self-hosted code search and understanding tool built on Zoekt engine |
-| [browser-use](https://github.com/browser-use/browser-use) | Framework enabling AI agents to control browsers |
-| [zenbu.js](https://github.com/zenbu-labs/zenbu.js) | Framework for building hackable, agent-editable software |
 
 ### Learning & Exploring
 
