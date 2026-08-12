@@ -141,12 +141,12 @@ Building production-grade ML systems, LLM applications, and intelligent automati
 </table>
 
 ---
-
 ## Open Source Contributions
 
 ### Major Contributions
 
 **[InsForge](https://github.com/InsForge/InsForge)** — Backend-as-a-Service Platform
+
 - Implemented [multi-admin support](https://github.com/InsForge/InsForge/pull/1495) for self-hosted dashboard
 - Replaced single env-var admin with database-backed admin model
 - Added bcrypt password hashing, soft-delete, timing-attack–resistant credential checks
@@ -154,26 +154,34 @@ Building production-grade ML systems, LLM applications, and intelligent automati
 - Merged into `feat/multi-admin` integration branch
 
 **[Novu](https://github.com/novuhq/novu)** — Open-source notification infrastructure
+
 - Active contributor to the notification platform
 - Working on notification delivery optimization and workflow improvements
 - Contributing to the notification feed management system
 
+**[RoboCurve](https://github.com/robocurve)** — Open-source robotics evaluation platform
 
-**[RoboCurve](https://github.com/robocurve)** — AI-powered robotics simulation platform
 - Contributing to simulation and control systems
 - Working on integration with reinforcement learning frameworks
 - Enhancing simulation accuracy and performance
 
+**[Tracer](https://github.com/adrida/tracer)** — Open-source AI inference research system
+
+- Contributing to adaptive inference and coordinated intelligence systems
+- Exploring model coordination, inference efficiency, and evaluation
+- Working with research-oriented AI infrastructure and open-weight models
+
+**[Superlog](https://github.com/superloglabs/superlog)** — Open-source AI observability and automated debugging
+
+- Contributing to AI-powered observability and automated bug-fixing workflows
+- Working with logs, traces, metrics, OpenTelemetry, and incident analysis
+- Exploring automated PR generation, debugging agents, and developer tooling
+
 **[JSON Schema](https://github.com/json-schema-org)** — JSON Schema specification and tooling
+
 - Contributing to JSON Schema validation and tooling
 - Working on schema validation improvements and documentation
 - Community engagement and specification discussions
-
-### Learning & Exploring
-
-- [OpenSpec](https://github.com/Fission-AI/OpenSpec) — Specification-driven development for AI agents
-- [Oumi](https://github.com/oumi-ai/oumi) — Open-source AI platform
-- [JCode](https://github.com/1jehuang/jcode) — Code generation and analysis tools
 
 **[View All Merged PRs](https://github.com/search?q=is%3Apr+is%3Amerged+author%3AAmresh-01&type=pullrequests)**
 
