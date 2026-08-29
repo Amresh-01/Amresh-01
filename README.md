@@ -200,7 +200,7 @@ Building production-grade ML systems, LLM applications, and intelligent automati
 
 ## Let's Connect
 
-- **Portfolio**: [amreshchaurasiya.vercel.app](https://amreshchaurasiya.vercel.app)
+- **Portfolio**: [amreshdevs.vercel.app](https://amreshdevs.vercel.app)
 - **LinkedIn**: [in/amresh-chaurasiya](https://www.linkedin.com/in/amresh-chaurasiya-513421308/)
 - **X (Twitter)**: [@Amresh__01](https://x.com/Amresh__01)
 - **Email**: amresh.codes@gmail.com
