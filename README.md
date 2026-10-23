@@ -1,4 +1,10 @@
-#  Amresh Chaurasiya
+# Amresh Chaurasiya
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://amreshdev.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amresh-chaurasiya-513421308/)
+[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/Amresh__01)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amresh.codes@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Amresh-01)
 
 **Backend-focused Full-Stack Developer | AI/ML Engineer**
 
@@ -180,15 +186,14 @@ Building production-grade ML systems, LLM applications, and intelligent automati
 **[View All Merged PRs](https://github.com/search?q=is%3Apr+is%3Amerged+author%3AAmresh-01&type=pullrequests)**
 
 ---
-
 ## Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Canteeno](https://github.com/Amresh-01/Canteeno) | Backend system with JWT auth, WebSocket concurrency handling, optimized queries, and fully documented API | Node.js, Express, MongoDB, JWT |
-| [AgentOS Contrib](https://github.com/Amresh-01/agentos-contrib) | Contributions to AgentOS framework including agent orchestration and memory management modules | Python, LangChain, FastAPI |
-| [LLM-Eval-Suite](https://github.com/Amresh-01/llm-eval-suite) | Comprehensive evaluation framework for LLMs including benchmarking, metrics, and comparison tools | Python, PyTorch, DeepEval, Ragas |
-| [Project Name]() | *Coming soon* | — |
+| [Graphsight](https://github.com/Amresh-01/Graphsight) | Local-first RAG observability engine tracking "Retrieved vs. Used" context gaps using zero-cost lexical trace algorithms to eliminate token bloat | Python, LangGraph, Pydantic, Monorepo |
+| [PingGod](https://github.com/Amresh-01/pinggod) | Distributed website uptime monitoring system with Redis Stream worker queues, incident state machines, and Next.js status pages | TypeScript, Next.js 15, Express, Redis Streams, PostgreSQL |
+| [LetAgents](https://github.com/Amresh-01/letagents) | Cloud platform providing autonomous coding agents with infrastructure provisioning, deployment, and operational observability | Next.js, TypeScript, Drizzle ORM, PostgreSQL, Tailwind |
+| [Canteeno](https://github.com/Amresh-01/Canteeno) | High-concurrency backend ordering system with JWT authentication, WebSocket real-time updates, and optimized MongoDB queries | Node.js, Express, MongoDB, WebSocket, JWT |
 
 ---
 
