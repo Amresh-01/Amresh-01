@@ -140,7 +140,9 @@ Building production-grade ML systems, LLM applications, and intelligent automati
 </td>
 </tr>
 </table>
+
 ---
+
 ## Open Source Contributions
 
 ### Major Contributions
